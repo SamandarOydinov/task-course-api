@@ -1,4 +1,3 @@
-// src/course/dto/create-course.dto.ts
 import { IsString, IsDateString } from 'class-validator';
 
 export class CreateCourseDto {

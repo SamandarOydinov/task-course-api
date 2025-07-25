@@ -1,4 +1,3 @@
-// src/student/student.controller.ts
 import {
   Controller,
   Post,

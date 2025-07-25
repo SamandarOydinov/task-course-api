@@ -1,4 +1,3 @@
-// src/course/course.module.ts
 import { Module } from '@nestjs/common';
 import { MongooseModule } from '@nestjs/mongoose';
 import { Course, CourseSchema } from './schema/course.schema';
